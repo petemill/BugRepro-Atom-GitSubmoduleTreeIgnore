@@ -1,0 +1,3 @@
+[submodule "BugRepro-Atom-GitSubmoduleTreeIgnore-Sub"]
+	path = BugRepro-Atom-GitSubmoduleTreeIgnore-Sub
+	url = https://github.com/petemill/BugRepro-Atom-GitSubmoduleTreeIgnore-Sub.git
